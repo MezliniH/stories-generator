@@ -1,4 +1,4 @@
-String noun;
+﻿String noun;
 String adj;
 String noun2;
 String verb;
@@ -51,7 +51,7 @@ while (true)
 String story = "Just then a " + noun + " rang, and the green girl said to Dorothy, \"That is the signal. You must go into the Throne Room alone.\""
 + "She opened a " + adj + " door and Dorothy walked boldly through and found herself in a wonderful place."
 + "It was a big, round room with a high arched " + noun2 + ", and the walls and ceiling and floor were covered with large emeralds"
-+ "set closely together. In the center of the roof was a great light, as bright as the sun, which made the emeralds " + verb 
++ "set closely together. In the center of the roof was a great light, as bright as the sun, which made the emeralds " + verb
 + " in a wonderful manner";
 
 Console.WriteLine("Here is your final story...");
